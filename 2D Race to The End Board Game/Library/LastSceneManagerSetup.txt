@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Game Map without Board.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Race to The End Board Game", "Assembly-CSharp.csproj", "{37B2026C-4C38-8863-A6FF-2DF5D6B1AE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Race to The End Board Game", "Assembly-CSharp-Editor.csproj", "{F23B2C39-4DF3-E358-4773-903F1F4D4CB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B2026C-4C38-8863-A6FF-2DF5D6B1AE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B2026C-4C38-8863-A6FF-2DF5D6B1AE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B2026C-4C38-8863-A6FF-2DF5D6B1AE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B2026C-4C38-8863-A6FF-2DF5D6B1AE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23B2C39-4DF3-E358-4773-903F1F4D4CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23B2C39-4DF3-E358-4773-903F1F4D4CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23B2C39-4DF3-E358-4773-903F1F4D4CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23B2C39-4DF3-E358-4773-903F1F4D4CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
